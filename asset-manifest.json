@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tip-calculator-in-react/static/css/main.b5ee9062.css",
+    "main.js": "/Tip-calculator-in-react/static/js/main.c8c75f7e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Tip-calculator-in-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Tip-calculator-in-react/index.html",
+    "main.b5ee9062.css.map": "/Tip-calculator-in-react/static/css/main.b5ee9062.css.map",
+    "main.c8c75f7e.js.map": "/Tip-calculator-in-react/static/js/main.c8c75f7e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Tip-calculator-in-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ee9062.css",
+    "static/js/main.c8c75f7e.js"
+  ]
+}
